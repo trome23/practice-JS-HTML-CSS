@@ -37,3 +37,8 @@ button {
 #save-btn {
     background: darkgreen;
 }
+
+#save-el {
+    color: white;
+    background: darkred;
+}
