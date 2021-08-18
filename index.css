@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#open-modal,
+#close-modal {
+    background: royalblue;
+    color: white;
+    padding: 10px 25px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#modal {
+    height: 200px;
+    max-width: 600px;
+    background: orange;
+    padding: 20px;
+    margin: 0 auto;
+}
